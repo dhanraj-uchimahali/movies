@@ -6,11 +6,9 @@ This is a RESTful API for movies, built using Node.js, Express, and MongoDB. The
 
 1. Clone the repository:
 
-   HTTPS:
-   git clone https://github.com/Aizonati/movies.git
+   HTTPS: git clone https://github.com/Aizonati/movies.git
    
-   SSH:  
-   git clone git@github.com:Aizonati/movies.git
+   SSH: git clone git@github.com:Aizonati/movies.git
 
 2. Install dependencies: 
    
@@ -143,9 +141,7 @@ Content-Type: application/json
                 }
             ],
             "release_date": "1997-04-17",
-            "rating": 7.7,
-            "is_active": true,
-            "is_deleted": false
+            "rating": 7.7
         }
 ```
 *Example response:*
