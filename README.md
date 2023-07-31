@@ -1,4 +1,4 @@
-# Movie RESTful API
+# Movies API
 
 This is a RESTful API for movies, built using Node.js, Express, and MongoDB. The API allows users to create, read, update, and delete movies.
 
