@@ -23,6 +23,9 @@ This is a RESTful API for movies, built using Node.js, Express, and MongoDB. The
 
    npm start
 
+## Live URL
+https://movies-7wvt.onrender.com/v1/movies
+
 ## Usage
 
 The API has the following endpoints:
