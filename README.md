@@ -6,9 +6,9 @@ This is a RESTful API for movies, built using Node.js, Express, and MongoDB. The
 
 1. Clone the repository:
 
-   HTTPS: git clone https://github.com/Aizonati/movies.git
+   HTTPS: git clone https://github.com/dhanraj-uchimahali/movies.git
    
-   SSH: git clone git@github.com:Aizonati/movies.git
+   SSH: git clone git@github.com:dhanraj-uchimahali/movies.git
 
 2. Install dependencies: 
    
